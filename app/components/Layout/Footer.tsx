@@ -11,7 +11,7 @@ const Footer = () => {
                 <FaGithub />
             </Link>
             <Link
-                to="https://github.com/enesyukselx"
+                to="https://www.linkedin.com/in/enesyukselx/"
                 className="text-3xl transition-colors hover:text-sky-700"
             >
                 <FaLinkedin />
