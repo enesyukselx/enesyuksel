@@ -3,7 +3,9 @@ import Footer from "~/components/Layout/Footer";
 import Header from "~/components/Layout/Header";
 
 const Layout = () => {
-    return (
+    return <div className="text-xl p-2 font-bold">enesyuksel.com</div>;
+
+    /*return (
         <div className="relative">
             <Header />
             <div className="px-8 md:px-20 py-8">
@@ -14,6 +16,7 @@ const Layout = () => {
             </div>
         </div>
     );
+    */
 };
 
 export default Layout;
